@@ -1,0 +1,10 @@
+{
+    "sources": [
+      { "label": "Fuente 1", "url": "https://vacaionesenelmar.xo.je/hashes.json" },
+      { "label": "Fuente 2", "url": "https://dweb.link/ipns/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes.json" },
+      { "label": "Fuente 3", "url": "https://dweb.link/ipns/k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs/hashes.json" },
+      { "label": "IPFS-1",   "url": "http://127.0.0.1:8080/ipns/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes.json" },
+      { "label": "IPFS-2",   "url": "http://127.0.0.1:8080/ipns/k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs/hashes.json" }
+    ]
+  }
+
